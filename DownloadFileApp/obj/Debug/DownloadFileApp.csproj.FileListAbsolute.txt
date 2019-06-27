@@ -1,0 +1,15 @@
+C:\Users\Асанали\source\repos\DownloadFileApp\DownloadFileApp\bin\Debug\DownloadFileApp.exe.config
+C:\Users\Асанали\source\repos\DownloadFileApp\DownloadFileApp\bin\Debug\DownloadFileApp.exe
+C:\Users\Асанали\source\repos\DownloadFileApp\DownloadFileApp\bin\Debug\DownloadFileApp.pdb
+C:\Users\Асанали\source\repos\DownloadFileApp\DownloadFileApp\obj\Debug\DownloadFileApp.csprojAssemblyReference.cache
+C:\Users\Асанали\source\repos\DownloadFileApp\DownloadFileApp\obj\Debug\MainWindow.g.cs
+C:\Users\Асанали\source\repos\DownloadFileApp\DownloadFileApp\obj\Debug\App.g.cs
+C:\Users\Асанали\source\repos\DownloadFileApp\DownloadFileApp\obj\Debug\DownloadFileApp_MarkupCompile.cache
+C:\Users\Асанали\source\repos\DownloadFileApp\DownloadFileApp\obj\Debug\DownloadFileApp_MarkupCompile.lref
+C:\Users\Асанали\source\repos\DownloadFileApp\DownloadFileApp\obj\Debug\MainWindow.baml
+C:\Users\Асанали\source\repos\DownloadFileApp\DownloadFileApp\obj\Debug\DownloadFileApp.g.resources
+C:\Users\Асанали\source\repos\DownloadFileApp\DownloadFileApp\obj\Debug\DownloadFileApp.Properties.Resources.resources
+C:\Users\Асанали\source\repos\DownloadFileApp\DownloadFileApp\obj\Debug\DownloadFileApp.csproj.GenerateResource.cache
+C:\Users\Асанали\source\repos\DownloadFileApp\DownloadFileApp\obj\Debug\DownloadFileApp.csproj.CoreCompileInputs.cache
+C:\Users\Асанали\source\repos\DownloadFileApp\DownloadFileApp\obj\Debug\DownloadFileApp.exe
+C:\Users\Асанали\source\repos\DownloadFileApp\DownloadFileApp\obj\Debug\DownloadFileApp.pdb
